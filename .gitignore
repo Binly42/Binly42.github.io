@@ -6,4 +6,4 @@ _site/
 
 
 .vscode/bookmarks.json
-_posts/binly.log/
+**/binly.log/
